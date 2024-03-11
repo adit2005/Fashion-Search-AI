@@ -1,6 +1,7 @@
 from haystack.document_stores import InMemoryDocumentStore
 from haystack.nodes.retriever.multimodal import MultiModalRetriever
 import os
+import torch
 from haystack import Document
 from haystack import Pipeline
 
