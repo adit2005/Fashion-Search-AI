@@ -3,6 +3,6 @@ gradio
 streamlit
 fastapi
 uvicorn 
-pytorch
+
 python-multipart 
 jinja2
