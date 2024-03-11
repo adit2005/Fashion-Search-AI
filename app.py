@@ -1,4 +1,5 @@
 import streamlit as st
+import torch
 from multimodal_search import MultimodalSearch
 
 st.set_page_config(
